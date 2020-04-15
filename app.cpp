@@ -10,9 +10,4 @@ int main(){
  delete h;
  return 0;
 }
-class Kevin{
-    public:
-    Kevin(){
-        
-    }
-}
+
